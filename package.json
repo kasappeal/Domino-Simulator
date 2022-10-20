@@ -1,0 +1,5 @@
+{
+  "name": "domino",
+  "main": "index.js",
+  "type": "module"
+}
